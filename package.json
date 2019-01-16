@@ -9,7 +9,7 @@
   "repository": "github:chancedickson/easy-errors",
   "scripts": {
     "pretest": "npm run build",
-    "prepublish": "npm run build && npm test",
+    "prepublishOnly": "npm run build && npm test",
     "test": "jest",
     "build": "rollup -c"
   },
