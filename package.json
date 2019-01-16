@@ -1,6 +1,6 @@
 {
   "name": "@chancedickson/easy-errors",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A library for easily building Error constructors.",
   "main": "cjs/index.js",
   "module": "src/index.js",
